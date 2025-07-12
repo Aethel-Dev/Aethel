@@ -5,7 +5,6 @@
 ### We're building for true cross-platform compatibility from day one, ensuring you have a consistent and high-quality experience whether you're coding on your desktop or on the go:
 
 * Android
-* iOS
 * Windows
 * Linux
 * macOS
